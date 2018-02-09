@@ -12,7 +12,7 @@ regions:
   header: Header
   primary_menu: 'Primary menu'
   secondary_menu: 'Secondary menu'
-  teemupasila_main_menu: 'Main menu'
+  main_menu: 'Main menu'
   slideshow: Slideshow
   help: Help
   page_top: 'Page top'

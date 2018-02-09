@@ -44,20 +44,20 @@
   </div>
 </header>
 
-  {% if teemupasila_main_menu or secondary_menu %}
+  {% if main_menu or secondary_menu %}
     <nav id="navigation" class="navigation" role="navigation">
       <div class="container">
-        {{ teemupasila_main_menu }}
+        {{ main_menu }}
         {{ secondary_menu }}
       </div>
     </nav>
   {% endif %}
 
-  {% if page.teemupasila_main_menu %}
+  {% if page.main_menu %}
     <nav id="main-menu" class="navbar navbar-default" role="navigation">
   		  <div class="collapse navbar-collapse" id="main-menu-inner">
           <div class="container">
-            {{ page.teemupasila_main_menu }}
+            {{ page.main_menu }}
           </div>
         </div>
     </nav>
