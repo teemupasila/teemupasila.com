@@ -44,10 +44,11 @@
   </div>
 </header>
 
-  {% if main_menu or secondary_menu %}
+  {% if main or  main_menu or secondary_menu %}
     <nav id="navigation" class="navigation" role="navigation">
       <div class="container">
-        {{ main_menu }}
+        {{ main }}
+	{{ main_menu }}
         {{ secondary_menu }}
       </div>
     </nav>
@@ -60,6 +61,16 @@
             {{ page.main_menu }}						
           </div>
         </div>
+    </nav>
+  {% endif %}
+
+  {% if page.main %}
+   <nav id="main" class="navbar navbar-default" role="navigation">
+    		 <div class="collapse navbar-collapse" id="main-inner">
+	<div class="container">
+	  {{ page.main }}
+	</div>
+      </div>
     </nav>
   {% endif %}
 
