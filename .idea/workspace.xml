@@ -2,908 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03876de-dc85-4592-8011-01bb46fa4e85" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.api.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.info.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.install" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.layouts.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/bootstrap_layouts.services.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/1col-stacked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/1col.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/2col-bricked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/2col-stacked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/2col.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/3col-bricked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/3col-stacked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/3col.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/4col-bricked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/4col-stacked.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/images/4col.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Annotation/BootstrapLayoutsHandler.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Annotation/BootstrapLayoutsUpdate.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/BootstrapLayout.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/BootstrapLayoutsManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/BootstrapLayoutsPluginManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/BootstrapLayoutsUninstallValidator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/BootstrapLayoutsUpdateManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/BootstrapLayoutsHandlerBase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/BootstrapLayoutsHandlerInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/BootstrapLayoutsUpdateBase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/BootstrapLayoutsUpdateInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/Ds.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/PageManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/Updates/BootstrapLayoutsUpdate8401.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/Updates/BootstrapLayoutsUpdate8402.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/BootstrapLayouts/Updates/bootstrap_layouts.update.8401.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/Plugin/Layout/BootstrapLayoutsBase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/src/ProxyClass/BootstrapLayoutsUninstallValidator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-1col-stacked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-1col.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-2col-bricked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-2col-stacked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-2col.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-3col-bricked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-3col-stacked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-3col.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-4col-bricked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-4col-stacked.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/bootstrap_layouts/templates/3.0.0/bs-4col.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/README.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/css/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/bg_direction_nav.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/comment-arrow.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/no-new-posts.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/overlay.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/pre-bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/search-button.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/slide-image-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/slide-image-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/images/slide-image-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/custom.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/html5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/jquery.flexslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/mobilemenu.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/slide.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/assets/js/superfish.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_breadcrumbs.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_footer_menu.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_main_navigation.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_main_page_content.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_page_title.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_powered_by_drupal.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_primary_admin_actions.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_site_branding.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_status_messages.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_tabs.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_tools.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/block.block.nexus_user_account_menu.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/install/nexus.settings.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/config/schema/nexus.schema.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/nexus.info.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/nexus.libraries.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/nexus.theme" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/screenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/block/block--local-tasks-block.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/block/block--system-branding-block.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/block/block.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/breadcrumb.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/comment.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/field--comment.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/html.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/layout/maintenance-page.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/layout/page.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/layout/region.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/menu-local-tasks.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/node.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/templates/page-title.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/nexus/theme-settings.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/screenshot.jpg" afterPath="$PROJECT_DIR$/themes/teemupasila/screenshot.jpg" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/screenshot.png" afterPath="$PROJECT_DIR$/themes/teemupasila/screenshot.png" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/config.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/base/elements.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/colors.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/block.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/book.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/breadcrumb.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/buttons.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/captions.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/comments.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/contextual.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/demo-block.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/dropbutton.component.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/featured-bottom.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/featured-top.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/feed-icon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/field.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/form.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/forum.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/header.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/help.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/highlighted.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/image-button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/item-list.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/list-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/list.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/main-content.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/messages.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/node-preview.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/node.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/page-title.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/pager.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/panel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/password-suggestions.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/primary-menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/search-form.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/search-results.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/secondary-menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/shortcut.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/sidebar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/site-branding.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/site-footer.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/skip-link.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/tablesort-indicator.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/tabs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/toolbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/ui-dialog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/ui.widget.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/vertical-tabs.component.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/components/views.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/layout.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/maintenance-page.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/slideshow.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/style-rtl.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/add.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/bg-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/buttons.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/comment-arrow-rtl.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/comment-arrow.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/indent-tree.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/required.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/search-button.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/skins-menu/bg-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/images/tabs-border.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/README.mdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/.bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/bower_components/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/changelog.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/base.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/font.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/resets.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/responsive.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/theme.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/css/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/asnavfor-rtl.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/basic-carousel-rtl.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/basic-carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/basic-slider-with-caption.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/basic-slider-with-custom-direction-nav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/css/demo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/dynamic-carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-medium/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-regular/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-semibold/svg/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/images/kitchen_adventurer_caramel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/images/kitchen_adventurer_donut.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/images/kitchen_adventurer_lemon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/froogaloop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/jquery.easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/jquery.fitvid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/jquery.mousewheel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/modernizr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/shBrushCss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/shBrushJScript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/shBrushXml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/js/shCore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/thumbnail-controlnav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/thumbnail-slider.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/video-wistia.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/demo/video.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/flexslider-rtl.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/flexslider.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/fonts/flexslider-icon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/fonts/flexslider-icon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/fonts/flexslider-icon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/fonts/flexslider-icon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/images/bg_play_pause.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/jquery.flexslider-min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/jquery.flexslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/.bowerrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/.jscsrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/AUTHORS.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/data/empty.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/data/testinit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/unit/extending.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/unit/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/sizzle/test/unit/utilities.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/node_modules/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/README.mdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/.bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/bower_components/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/changelog.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/base.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/font.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/resets.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/responsive.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/theme.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/css/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/basic-carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/basic-slider-with-caption.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/basic-slider-with-custom-direction-nav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/css/demo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/dynamic-carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-medium/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-regular/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-semibold/svg/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/images/kitchen_adventurer_caramel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/images/kitchen_adventurer_donut.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/images/kitchen_adventurer_lemon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/froogaloop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/jquery.easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/jquery.fitvid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/jquery.mousewheel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/modernizr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/shBrushCss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/shBrushJScript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/shBrushXml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/js/shCore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/thumbnail-controlnav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/thumbnail-slider.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/video-wistia.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/demo/video.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/flexslider.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/fonts/flexslider-icon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/fonts/flexslider-icon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/fonts/flexslider-icon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/fonts/flexslider-icon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/images/bg_play_pause.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/jquery.flexslider-min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/jquery.flexslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/.bowerrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/.jscsrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/AUTHORS.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/data/empty.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/data/testinit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/unit/extending.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/unit/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/sizzle/test/unit/utilities.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/node_modules/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/flexslider5/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/HELP-US-OUT.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/OswaldRegular-demo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/oswald-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/oswald-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/oswald-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/oswald-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/specimen_files/easytabs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/specimen_files/grid_12-825-55-15.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/specimen_files/specimen_stylesheet.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/fonts/oswald_regular/stylesheet.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/js/jquery.smooth-scroll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/js/modernizr.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/arrow-for-thumbnail-navigator-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/banner-rotator-2.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/banner-rotator.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/banner-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/carousel-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/content-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/different-size-photo-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/full-width-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/grid-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/image-gallery-with-vertical-thumbnail.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/image-gallery.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/image-slider-2.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/image-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/introduction-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/list-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/nearby-image-partial-visible-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/nested-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/responsive-slider-div-span.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/responsive-slider-float-text.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/scrolling-logo-thumbnail-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/simple-fade-slideshow.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/slider-cluster.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/tab-slider-text-vertical.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/tab-slider-text.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/tab-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/demo/tiled-menu-slider.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/Icon-Slider-11-No-jQuery.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/Icon-Slider-11-jQuery.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/Icon-Slider-12-No-jQuery.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/Icon-Slider-12-jQuery.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/a21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/b21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/browser-icons.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/close.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/loading2.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/play.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/img/t01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jquery-1.9.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.player.ytiframe.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.player.ytiframe.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.slider.debug.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.slider.debug.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.slider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.slider.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.slider.mini.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.sliderc.mini.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.sliders.mini.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/js/jssor.utils.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/jssor/slideshow.source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/monokai/monokai.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/respond/html5shiv.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/respond/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/skins-menu/skins_menu.inc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/skins-menu/skins_menu.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/ajax-loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/config.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/fonts/slick.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/fonts/slick.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/fonts/slick.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/fonts/slick.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick-theme.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick-theme.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/includes/slick/slick.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/carousel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/fix_script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/jquery.cookie.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/slideshow.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/js/zircon.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_base.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_elements.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_skinbackground.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_skincolor.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/base/_skinmenu.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/config/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/config/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/partials/_block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/partials/_page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/partials/_print.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/partials/_responsive.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/partials/_view.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/style-rtl.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/assets/sass/style.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/config/schema/zircon.schema.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/screenshot.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/screenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/html.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/node.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/page.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/views/views-view-grid.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/views/views-view-unformatted--carousel.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/views/views-view-unformatted--slideshow.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/templates/views/views-view.html.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/zircon.breakpoints.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/zircon.info.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/zircon.libraries.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/zircon/zircon.theme" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml" afterPath="$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml" />
+      <change beforePath="$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig" afterPath="$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -917,73 +17,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="screenshot.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/screenshot.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screenshot.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/screenshot.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="html.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/html.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="node.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/node.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-785">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/add.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabs-border.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/tabs-border.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="bartik.info.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.info.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg-3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg-7.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-7.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg-6.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-6.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg-5.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-5.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg-2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="teemupasila.info.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -991,6 +81,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml" />
+        <option value="$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -1111,6 +209,32 @@
             <path>
               <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bartik" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bartik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -1142,6 +266,13 @@
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="skins-menu" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="teemupasila" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -1186,17 +317,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518179578867</updated>
-      <workItem from="1518179580985" duration="405000" />
+      <workItem from="1518179580985" duration="1047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="405000" />
+    <option name="totallyTimeSpent" value="1047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="2560" height="1337" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1235,14 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1259,11 +383,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/screenshot.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/screenshot.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1293,7 +412,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-1.png">
+    <entry file="file://$PROJECT_DIR$/themes/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/tabs-border.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1303,9 +430,78 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/tabs-border.png">
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-1.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
