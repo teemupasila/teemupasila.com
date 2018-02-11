@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d03876de-dc85-4592-8011-01bb46fa4e85" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" afterPath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" afterPath="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -47,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+              <caret line="58" column="65" lean-forward="false" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -57,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.libraries.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,8 +65,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6643">
-              <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+            <state relative-caret-position="9187">
+              <caret line="1018" column="37" lean-forward="true" selection-start-line="1018" selection-start-column="37" selection-end-line="1018" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -115,8 +114,8 @@
         <option value="$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig" />
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/sass/base/_skinbackground.scss" />
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js" />
-        <option value="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" />
+        <option value="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -350,12 +349,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518179578867</updated>
-      <workItem from="1518179580985" duration="10803000" />
+      <workItem from="1518179580985" duration="11458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10803000" />
+    <option name="totallyTimeSpent" value="11458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -719,7 +718,7 @@
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.libraries.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -735,7 +734,7 @@
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+          <caret line="58" column="65" lean-forward="false" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -743,7 +742,7 @@
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -766,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6643">
-          <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+        <state relative-caret-position="9187">
+          <caret line="1018" column="37" lean-forward="true" selection-start-line="1018" selection-start-column="37" selection-end-line="1018" selection-end-column="37" />
           <folding />
         </state>
       </provider>
