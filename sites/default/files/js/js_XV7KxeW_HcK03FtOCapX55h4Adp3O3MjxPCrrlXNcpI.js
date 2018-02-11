@@ -14378,7 +14378,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconSlideshow = {
+  Drupal.behaviors.teemupasilaSlideshow = {
     attach: function (context, settings) {  
       jQuery(document).ready(function ($) {
         if($('#slideshow_container').length) {
@@ -14578,7 +14578,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconCarousel = {
+  Drupal.behaviors.teemupasilaCarousel = {
     attach: function (context, settings) {  
       $(document).ready(function() {
         if($('.carousel-responsive').length) {
@@ -14659,8 +14659,8 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 
 (function($, Drupal) {
 
-    Drupal.Zircon = Drupal.Zircon || {};
-    Drupal.behaviors.zircon = {
+    Drupal.teemupasila = Drupal.teemupasila || {};
+    Drupal.behaviors.teemupasila = {
         attach: function(context, settings) {
 
 
@@ -14680,7 +14680,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                 }
             });
 
-            Drupal.Zircon.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
+            Drupal.teemupasila.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
 
             $(window).scroll(function() {
                 if ($(window).scrollTop() > 200) {
@@ -14696,11 +14696,11 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                 }
             });
 
-            Drupal.Zircon.mobileMenu();
+            Drupal.teemupasila.mobileMenu();
 
         }
     }
-    Drupal.Zircon.setInputPlaceHolder = function(name, text, selector) {
+    Drupal.teemupasila.setInputPlaceHolder = function(name, text, selector) {
         selector = selector == undefined ? '' : selector + ' ';
 
         if ($.support.placeholder) {
@@ -14719,7 +14719,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
         }
     }
 
-    Drupal.Zircon.mobileMenu = function() {
+    Drupal.teemupasila.mobileMenu = function() {
       $('#main-menu-inner').mobileMenu();
     }
 

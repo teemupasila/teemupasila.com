@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03876de-dc85-4592-8011-01bb46fa4e85" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" afterPath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_BxWuJTN3Rd7brujgEpGudFbpSX_0UTVNQ1_m20cGdiY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BxWuJTN3Rd7brujgEpGudFbpSX_0UTVNQ1_m20cGdiY.css" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UR-khvxxIvVXyxP4Dz5cVgF_nONIKTtV5hfKATTvOw4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_UR-khvxxIvVXyxP4Dz5cVgF_nONIKTtV5hfKATTvOw4.css" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_u2e2RxFVSKXvn7VqeRCZwyUaNcfAoG28ex1Yc5aQCus.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_u2e2RxFVSKXvn7VqeRCZwyUaNcfAoG28ex1Yc5aQCus.css" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_32likubl5VAAsDH0u6yHqlbtsd4IoGCQq2p-Zs_okL0.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_32likubl5VAAsDH0u6yHqlbtsd4IoGCQq2p-Zs_okL0.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CUgT6yCJm7OJNjwADxKSGsjSbV-unnM1Kn1BgVriTmI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_CUgT6yCJm7OJNjwADxKSGsjSbV-unnM1Kn1BgVriTmI.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_LKxRRmE3mOrWezkjiDxunwA9ikQx6reR5-1wXZCnC14.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_LKxRRmE3mOrWezkjiDxunwA9ikQx6reR5-1wXZCnC14.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XV7KxeW_HcK03FtOCapX55h4Adp3O3MjxPCrrlXNcpI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_XV7KxeW_HcK03FtOCapX55h4Adp3O3MjxPCrrlXNcpI.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_gkbhMpPsWIWeliGfsSMWprOE4-BErAClTZRASKfc2nw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_gkbhMpPsWIWeliGfsSMWprOE4-BErAClTZRASKfc2nw.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_j6S2JRDc2WBW76UbvOVGi386E7QiM5A3cStjnENQmZI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j6S2JRDc2WBW76UbvOVGi386E7QiM5A3cStjnENQmZI.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_lgdSWOY3sib_9WKXt0Cx9YFOsmrGzJad3aVz13vSrag.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_lgdSWOY3sib_9WKXt0Cx9YFOsmrGzJad3aVz13vSrag.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_sXKgfDwztSGnqrvvH4AnavgtESEK488F7nW4OdCILe8.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sXKgfDwztSGnqrvvH4AnavgtESEK488F7nW4OdCILe8.js" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_zAqTUCCTpnIc9pfQz9xIems_UvaeKxLYM2vBcjwVzTY.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_zAqTUCCTpnIc9pfQz9xIems_UvaeKxLYM2vBcjwVzTY.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-310">
-              <caret line="281" column="1" lean-forward="true" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+              <caret line="281" column="1" lean-forward="false" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -56,9 +67,9 @@
       <replace>teemupasila</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes</dir>
       <dir>$PROJECT_DIR$/themes/teemupasila</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -291,23 +302,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518179578867</updated>
-      <workItem from="1518179580985" duration="9332000" />
+      <workItem from="1518179580985" duration="9552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9332000" />
+    <option name="totallyTimeSpent" value="9552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875458" sideWeight="0.48857144" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875458" sideWeight="0.48857144" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58920187" sideWeight="0.51282054" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1990232" sideWeight="0.4871795" order="4" side_tool="false" content_ui="tabs" x="21" y="411" width="1638" height="170" />
+      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1990232" sideWeight="0.4871795" order="4" side_tool="false" content_ui="tabs" x="21" y="411" width="1638" height="170" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.4908425" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -702,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-310">
-          <caret line="281" column="1" lean-forward="true" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+          <caret line="281" column="1" lean-forward="false" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -4235,9 +4235,9 @@ function escapeSelector (str) {
 /*
 * Jssor.Core 15.0
 * http://www.jssor.com/
-* 
+*
 * TERMS OF USE - Jssor.Core
-* 
+*
 * Copyright 2014 Jssor
 *
 * Permission is hereby granted, free of charge, to any person obtaining
@@ -4247,10 +4247,10 @@ function escapeSelector (str) {
 * distribute, sublicense, and/or sell copies of the Software, and to
 * permit persons to whom the Software is furnished to do so, subject to
 * the following conditions:
-* 
+*
 * The above copyright notice and this permission notice shall be
 * included in all copies or substantial portions of the Software.
-* 
+*
 * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -4406,9 +4406,9 @@ var $JssorEventManager$ = function () {
 /*
 * Jssor.Utils 15.0
 * http://www.jssor.com/
-* 
+*
 * TERMS OF USE - Jssor.Utils
-* 
+*
 * Copyright 2014 Jssor
 *
 * Permission is hereby granted, free of charge, to any person obtaining
@@ -4418,10 +4418,10 @@ var $JssorEventManager$ = function () {
 * distribute, sublicense, and/or sell copies of the Software, and to
 * permit persons to whom the Software is furnished to do so, subject to
 * the following conditions:
-* 
+*
 * The above copyright notice and this permission notice shall be
 * included in all copies or substantial portions of the Software.
-* 
+*
 * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -5456,7 +5456,7 @@ var $JssorUtils$ = window.$JssorUtils$ = new function () {
             SetStyleFilterIE(elmt, newFilterValue);
         }
 
-        //if (!IsBrowserIE() || browserEngineVersion >= 9) 
+        //if (!IsBrowserIE() || browserEngineVersion >= 9)
         else {
             elmt.style.opacity = opacity == 1 ? "" : Math.round(opacity * 100) / 100;
         }
@@ -7142,9 +7142,9 @@ function $JssorPlayerClass$() {
 /*
 * Jssor.Slider 16.0
 * http://www.jssor.com/
-* 
+*
 * TERMS OF USE - Jssor.Slider
-* 
+*
 * Copyright 2014 Jssor
 *
 * Permission is hereby granted, free of charge, to any person obtaining
@@ -7154,10 +7154,10 @@ function $JssorPlayerClass$() {
 * distribute, sublicense, and/or sell copies of the Software, and to
 * permit persons to whom the Software is furnished to do so, subject to
 * the following conditions:
-* 
+*
 * The above copyright notice and this permission notice shall be
 * included in all copies or substantial portions of the Software.
-* 
+*
 * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -9297,7 +9297,7 @@ new function () {
         function ResetNavigator(index, temp) {
             $JssorUtils$.$Each(_Navigators, function (navigator) {
                 navigator.$SetCurrentIndex(GetRealIndex(index), index, temp);
-				
+
 				// fix highlight button bug
 				(jQuery)('#slideshow .container .jssorb05').children().each(function (i, e) {
 					(jQuery)(this).removeClass('av');
@@ -10288,7 +10288,7 @@ var $JssorBulletNavigator$ = window.$JssorBulletNavigator$ = function (elmt, opt
 				/*
                 if (_Options.$ActionMode & 1)
                     $JssorUtils$.$AddEvent(div, "click", $JssorUtils$.$CreateCallback(null, OnNavigationRequest, buttonIndex));
-				
+
                 if (_Options.$ActionMode & 2)
                     $JssorUtils$.$AddEvent(div, "mouseover", $JssorUtils$.$CreateCallback(null, OnNavigationRequest, buttonIndex));
 				*/
@@ -10301,7 +10301,7 @@ var $JssorBulletNavigator$ = window.$JssorBulletNavigator$ = function (elmt, opt
     };
 
     //JssorNavigator Constructor
-	
+
     {
         self.$Options = _Options = $JssorUtils$.$Extend({
             $SpacingX: 0,
@@ -10344,7 +10344,7 @@ var $JssorBulletNavigator$ = window.$JssorBulletNavigator$ = function (elmt, opt
         _SpacingY = _Options.$SpacingY;
         _Orientation = _Options.$Orientation - 1;
     }
-	
+
 };
 
 var $JssorArrowNavigator$ = window.$JssorArrowNavigator$ = function (elmt, options, uiSearchMode) {
@@ -12795,7 +12795,7 @@ var $JssorCaptionSlider$ = window.$JssorCaptionSlider$ = function (container, ca
 
             if (_.options.accessibility === true) {
                 _.initADA();
-                
+
                 if (_.options.focusOnChange) {
                     var $currentSlide = $(_.$slides.get(_.currentSlide));
                     $currentSlide.attr('tabindex', 0).focus();
@@ -16229,7 +16229,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
   //FlexSlider: Object Instance
   $.flexslider = function(el, options) {
     var slider = $(el);
-	
+
     // making variables public
 
     //if rtl value was not passed and html is in rtl..enable it by default.
@@ -16237,7 +16237,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
   		options.rtl=true;
     }
     slider.vars = $.extend({}, $.flexslider.defaults, options);
-    
+
     var namespace = slider.vars.namespace,
         msGesture = window.navigator && window.navigator.msPointerEnabled && window.MSGesture,
         touch = (( "ontouchstart" in window ) || msGesture || window.DocumentTouch && document instanceof DocumentTouch) && slider.vars.touch,
@@ -16324,7 +16324,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
           $(document).bind('keyup', function(event) {
             var keycode = event.keyCode;
             if (!slider.animating && (keycode === 39 || keycode === 37)) {
-              var target = (slider.vars.rtl? 
+              var target = (slider.vars.rtl?
                                 ((keycode === 37) ? slider.getTarget('next') :
                                 (keycode === 39) ? slider.getTarget('prev') : false)
                                 :
@@ -16396,7 +16396,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                     target = $slide.index();
         				var posFromX;
                 if(slider.vars.rtl){
-        					posFromX = -1*($slide.offset().right - $(slider).scrollLeft()); // Find position of slide relative to right of slider container	
+        					posFromX = -1*($slide.offset().right - $(slider).scrollLeft()); // Find position of slide relative to right of slider container
         				}
         				else
         				{
@@ -17448,11 +17448,11 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconSlideshow = {
-    attach: function (context, settings) {  
+  Drupal.behaviors.teemupasilaSlideshow = {
+    attach: function (context, settings) {
       jQuery(document).ready(function ($) {
         if($('#slideshow_container').length) {
-			
+
             var _SlideshowTransitions = [
             { $Duration: 1500, $Opacity: 2 }
             ];
@@ -17499,15 +17499,15 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                 }
             };
             var jssor_slider1 = new $JssorSlider$("slideshow_container", options);
-			
+
             ScaleSlider();
 
             if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) {
                 $(window).bind('resize', ScaleSlider);
             }
-			
+
         }
-		
+
         function ScaleSlider() {
             var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
             if (parentWidth)
@@ -17515,7 +17515,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
             else
                 window.setTimeout(ScaleSlider, 30);
         }
-		
+
 
       });
     }
@@ -17527,13 +17527,13 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 */
 
 (jQuery)(function () {
-	
+
 	fix_slider_html();
 	(jQuery)('#slideshow_container').flexslider({
 		animation: "slide",
 	});
 	onDrag();
-	
+
 	function fix_slider_html() {
 		var parent = (jQuery)('#slideshow_container');
 		var sliderContainer = (jQuery)(parent.children()[1]);
@@ -17542,20 +17542,20 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 			var self = (jQuery)(this);
 			var image = self.find('.views-field-field-slideshow img').parent().parent();
 			var title = self.find('.views-field-title a').parent();
-			
+
 			var newElement = '<li>' + image.html() + '<p class="flex-caption">' + title.html() + '</p></li>';
-			
+
 			(jQuery)(slider).append(newElement);
 		});
 		parent.empty();
 		parent.append(slider);
 	}
-	
+
 	function onDrag() {
 		var isDragging = false;
 		var img = (jQuery)('#slideshow_container .slides img');
 		var deltaX, deltaY;
-		
+
 		img.mousedown(function(event) {
 			isDragging = false;
 			deltaX = event.offsetX;
@@ -17566,11 +17566,11 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 		})
 		.mouseup(function(event) {
 			var wasDragging = isDragging;
-			
+
 			isDragging = false;
 			deltaX -= event.offsetX;
 			//deltaY -= event.offsetY;
-			
+
 			if (Math.abs(deltaX) > 20/* || Math.abs(deltaY) > 20*/) {
 				if (deltaX < 0) {
 					movePrev();
@@ -17591,39 +17591,39 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 						moveDown();
 					}
 				}
-				*/				
+				*/
 			}
 		});
 	}
-	
+
 	function moveNext() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "horizontal"
 		});
 		(jQuery)('#slideshow_container').flexslider("next");
 	}
-	
+
 	function movePrev() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "horizontal"
 		});
 		(jQuery)('#slideshow_container').flexslider("prev");
 	}
-	
+
 	function moveTop() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "vertical"
 		});
 		(jQuery)('#slideshow_container').flexslider("next");
 	}
-	
+
 	function moveDown() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "vertical"
 		});
 		(jQuery)('#slideshow_container').flexslider("prev");
 	}
-	
+
 	/*
 		<ul class="slides">
             <li>
@@ -17648,8 +17648,8 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconCarousel = {
-    attach: function (context, settings) {  
+  Drupal.behaviors.teemupasilaCarousel = {
+    attach: function (context, settings) {
       $(document).ready(function() {
         if($('.carousel-responsive').length) {
         $('.carousel-responsive').not('.slick-initialized').slick({
@@ -17729,8 +17729,8 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 
 (function($, Drupal) {
 
-    Drupal.Zircon = Drupal.Zircon || {};
-    Drupal.behaviors.zircon = {
+    Drupal.teemupasila = Drupal.teemupasila || {};
+    Drupal.behaviors.teemupasila = {
         attach: function(context, settings) {
 
 
@@ -17750,7 +17750,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                 }
             });
 
-            Drupal.Zircon.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
+            Drupal.teemupasila.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
 
             $(window).scroll(function() {
                 if ($(window).scrollTop() > 200) {
@@ -17766,11 +17766,11 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
                 }
             });
 
-            Drupal.Zircon.mobileMenu();
+            Drupal.teemupasila.mobileMenu();
 
         }
     }
-    Drupal.Zircon.setInputPlaceHolder = function(name, text, selector) {
+    Drupal.teemupasila.setInputPlaceHolder = function(name, text, selector) {
         selector = selector == undefined ? '' : selector + ' ';
 
         if ($.support.placeholder) {
@@ -17789,16 +17789,16 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
         }
     }
 
-    Drupal.Zircon.mobileMenu = function() {
+    Drupal.teemupasila.mobileMenu = function() {
       $('#main-menu-inner').mobileMenu();
     }
 
 })(jQuery, Drupal);;
 (jQuery)(function () {
-	
+
 	fix_placeholder();
 	fix_contact_form();
-	
+
 	function fix_placeholder() {
 		(jQuery)('[placeholder]').focus(function() {
 			var input = (jQuery)(this);
@@ -17819,9 +17819,9 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 				input.val('');
 				}
 			})
-		});	
+		});
 	}
-	
+
 	function fix_contact_form() {
 		var userAgent = window.navigator.userAgent;
 		if (userAgent.indexOf('Firefox')) {
@@ -17830,7 +17830,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 			var formHTML = parent.html();
 			parent.empty();
 			parent.html(formHTML);
-		}	
+		}
 	}
 });;
 /*jslint browser: true */ /*global jQuery: true */
@@ -17978,7 +17978,7 @@ jQuery.cookie = function (key, value, options) {
     Drupal.behaviors.skinMenuAction = {
         attach: function (context) {
 
-            $(window).on('load', function()  { 
+            $(window).on('load', function()  {
 
                 $('#change-skin').once('load').on('click', function(){
                     $('#change-skin i').toggleClass('fa-spin');
@@ -17998,7 +17998,7 @@ jQuery.cookie = function (key, value, options) {
 
 
         }
-        
+
     }
 
 
@@ -18007,7 +18007,7 @@ jQuery.cookie = function (key, value, options) {
         var answer = confirm(Drupal.t('Are you sure you want to reset your theme settings to default theme settings?'))
         if (answer){
 
-            var base_path = drupalSettings.path.baseUrl;        
+            var base_path = drupalSettings.path.baseUrl;
             $.cookie("weebpal_skin", 'default', {path: base_path});
             $.cookie("weebpal_layout", 'layout-default', {path: base_path});
             $.cookie("weebpal_background", 'bg-default', {path: base_path});
@@ -18033,9 +18033,9 @@ jQuery.cookie = function (key, value, options) {
 
         var layout_class = $(this).attr("id");
         //var layout_width = drupalSettings.layout_width;
-        
+
         // For demo
-        //var layout_width = 1200; 
+        //var layout_width = 1200;
 
         var layout_width = parseInt($.cookie("weebpal_layout_width"));
         if(!layout_width){
@@ -18065,7 +18065,7 @@ jQuery.cookie = function (key, value, options) {
         return true;
     }
 
-   
+
     Drupal.SkinsMenu.changeBackgroundHandle = function () {
 
         parts = this.href.split("/");
@@ -18076,11 +18076,11 @@ jQuery.cookie = function (key, value, options) {
         $.cookie("weebpal_background", style, {path: base_path});
         $("body").removeClass(current_background);
         $("body").addClass(style);
-        
+
         return true;
     }
 
-    Drupal.SkinsMenu.fixCacheBug = function(){ 
+    Drupal.SkinsMenu.fixCacheBug = function(){
 
         var cookieState = $.cookie("weebpal_layout");
         if(!cookieState)
@@ -18098,12 +18098,12 @@ jQuery.cookie = function (key, value, options) {
 
 
 
-Drupal.SkinsMenu.fixCacheBugBackground = function(){ 
+Drupal.SkinsMenu.fixCacheBugBackground = function(){
 
     if ($.cookie("weebpal_layout") == 'layout-boxed') {
 
      var cookieBackground = $.cookie("weebpal_background");
-        if (!cookieBackground) 
+        if (!cookieBackground)
             return;
         var currentBackground = $('#change_skin_menu_wrapper .background .change-background > .active').attr('class');
 
@@ -18127,19 +18127,19 @@ Drupal.SkinsMenu.fixCacheBugBackground = function(){
 
 
 
-                  
-
-                  
-                  
-
-
-                  
 
 
 
 
 
-                  
+
+
+
+
+
+
+
+
 ;
 /**
 * DO NOT EDIT THIS FILE.
