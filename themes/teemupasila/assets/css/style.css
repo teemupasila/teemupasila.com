@@ -9,7 +9,7 @@ CSS
 /* color for skin */
 /* line 3, ../sass/base/_skincolor.scss */
 .change-skin-menu-wrapper .color-default {
-  background-color: #c01700;
+  background-color: #cc0;
 }
 
 /* background skin */
@@ -139,7 +139,7 @@ CSS
   height: 41px;
   box-shadow: 1px 1px 2px -2px #888;
   -webkit-box-shadow: 1px 1px 2px -2px #888;
-  color: #666;
+  color: #060;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
 }
@@ -298,14 +298,14 @@ header, nav, section, article, figure, aside, footer {
 
 /* line 25, ../sass/base/_base.scss */
 a {
-  color: #555;
+  color: #050;
 }
 
 /* line 29, ../sass/base/_base.scss */
 a:hover, a:focus {
   outline: none;
   text-decoration: none;
-  color: #c01700;
+  color: #cc0;
 }
 
 /* line 35, ../sass/base/_base.scss */
@@ -372,14 +372,14 @@ p {
   border: none;
   padding: 8px 20px;
   color: #fff;
-  background: #c01700;
+  background: #cc0;
   border-radius: 3px;
   -webkit-border-radius: 3px;
   cursor: pointer;
 }
 /* line 93, ../sass/base/_base.scss */
 .form-actions .form-submit:hover, .form-actions .form-submit:focus {
-  background-color: #555;
+  background-color: #050;
 }
 
 /* line 1, ../sass/base/_elements.scss */
@@ -407,7 +407,7 @@ p {
 }
 /* line 10, ../sass/base/_header.scss */
 #main-menu .container {
-  background-color: #555;
+  background-color: #050;
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#373a3d), to(#282a2c));
   background: -webkit-linear-gradient(top, #373a3d, #282a2c);
   background: -moz-linear-gradient(top, #373a3d, #282a2c);
@@ -439,21 +439,21 @@ p {
 }
 /* line 37, ../sass/base/_header.scss */
 #main-menu .container ul.menu li .is-active {
-  background-color: #a01300;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-  background: -webkit-linear-gradient(top, #c01700, #a01300);
-  background: -moz-linear-gradient(top, #c01700, #a01300);
-  background: -ms-linear-gradient(top, #c01700, #a01300);
-  background: -o-linear-gradient(top, #c01700, #a01300);
+  background-color: #aa0;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+  background: -webkit-linear-gradient(top, #cc0, #aa0);
+  background: -moz-linear-gradient(top, #cc0, #aa0);
+  background: -ms-linear-gradient(top, #cc0, #aa0);
+  background: -o-linear-gradient(top, #cc0, #aa0);
 }
 /* line 46, ../sass/base/_header.scss */
 #main-menu .container ul.menu li.menu-item--active-trail > a {
-  background-color: #a01300;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-  background: -webkit-linear-gradient(top, #c01700, #a01300);
-  background: -moz-linear-gradient(top, #c01700, #a01300);
-  background: -ms-linear-gradient(top, #c01700, #a01300);
-  background: -o-linear-gradient(top, #c01700, #a01300);
+  background-color: #aa0;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+  background: -webkit-linear-gradient(top, #cc0, #aa0);
+  background: -moz-linear-gradient(top, #cc0, #aa0);
+  background: -ms-linear-gradient(top, #cc0, #aa0);
+  background: -o-linear-gradient(top, #cc0, #aa0);
 }
 /* line 55, ../sass/base/_header.scss */
 #main-menu .container ul.menu li:first-child {
@@ -468,12 +468,12 @@ p {
 }
 /* line 66, ../sass/base/_header.scss */
 #main-menu .container ul.menu li:hover > a, #main-menu .container ul.menu li:focus > a {
-  background-color: #a01300;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-  background: -webkit-linear-gradient(top, #c01700, #a01300);
-  background: -moz-linear-gradient(top, #c01700, #a01300);
-  background: -ms-linear-gradient(top, #c01700, #a01300);
-  background: -o-linear-gradient(top, #c01700, #a01300);
+  background-color: #aa0;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+  background: -webkit-linear-gradient(top, #cc0, #aa0);
+  background: -moz-linear-gradient(top, #cc0, #aa0);
+  background: -ms-linear-gradient(top, #cc0, #aa0);
+  background: -o-linear-gradient(top, #cc0, #aa0);
 }
 /* line 74, ../sass/base/_header.scss */
 #main-menu .container ul.menu li:hover ul.menu, #main-menu .container ul.menu li:focus ul.menu {
@@ -514,7 +514,7 @@ p {
   top: 45px;
   z-index: 100;
   background: #272727;
-  border: 5px solid #a01300;
+  border: 5px solid #aa0;
   width: 220px;
   display: none;
 }
@@ -596,7 +596,7 @@ p {
 }
 /* line 187, ../sass/base/_header.scss */
 .not-front #main-menu .container ul.menu li:first-child .is-active {
-  background-color: #555;
+  background-color: #050;
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#373a3d), to(#282a2c));
   background: -webkit-linear-gradient(top, #373a3d, #282a2c);
   background: -moz-linear-gradient(top, #373a3d, #282a2c);
@@ -651,7 +651,7 @@ p {
     top: 45px;
     z-index: 100;
     background: #272727;
-    border: 5px solid #a01300;
+    border: 5px solid #aa0;
     width: 220px;
     -webkit-box-shadow: inherit !important;
     -moz-box-shadow: inherit !important;
@@ -737,21 +737,21 @@ p {
   .we-mega-menu-ul > .we-mega-menu-li > a:hover, .we-mega-menu-ul > .we-mega-menu-li > a:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #a01300;
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-    background: -webkit-linear-gradient(top, #c01700, #a01300);
-    background: -moz-linear-gradient(top, #c01700, #a01300);
-    background: -ms-linear-gradient(top, #c01700, #a01300);
-    background: -o-linear-gradient(top, #c01700, #a01300);
+    background-color: #aa0;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+    background: -webkit-linear-gradient(top, #cc0, #aa0);
+    background: -moz-linear-gradient(top, #cc0, #aa0);
+    background: -ms-linear-gradient(top, #cc0, #aa0);
+    background: -o-linear-gradient(top, #cc0, #aa0);
   }
   /* line 359, ../sass/base/_header.scss */
   .we-mega-menu-ul > .we-mega-menu-li.active > a, .we-mega-menu-ul > .we-mega-menu-li.active > a:hover, .we-mega-menu-ul > .we-mega-menu-li.active > a:focus, .we-mega-menu-ul > .we-mega-menu-li.active-trail > a, .we-mega-menu-ul > .we-mega-menu-li.active-trail > a:hover, .we-mega-menu-ul > .we-mega-menu-li.active-trail > a:focus {
-    background-color: #a01300;
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-    background: -webkit-linear-gradient(top, #c01700, #a01300);
-    background: -moz-linear-gradient(top, #c01700, #a01300);
-    background: -ms-linear-gradient(top, #c01700, #a01300);
-    background: -o-linear-gradient(top, #c01700, #a01300);
+    background-color: #aa0;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+    background: -webkit-linear-gradient(top, #cc0, #aa0);
+    background: -moz-linear-gradient(top, #cc0, #aa0);
+    background: -ms-linear-gradient(top, #cc0, #aa0);
+    background: -o-linear-gradient(top, #cc0, #aa0);
     color: #fff;
   }
   /* line 369, ../sass/base/_header.scss */
@@ -816,12 +816,12 @@ p {
   }
   /* line 421, ../sass/base/_header.scss */
   .we-mega-menu-ul li.dropdown-menu:hover > a, .we-mega-menu-ul li.dropdown-menu:focus > a {
-    background-color: #a01300;
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-    background: -webkit-linear-gradient(top, #c01700, #a01300);
-    background: -moz-linear-gradient(top, #c01700, #a01300);
-    background: -ms-linear-gradient(top, #c01700, #a01300);
-    background: -o-linear-gradient(top, #c01700, #a01300);
+    background-color: #aa0;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#aa0), to(#282a2c));
+    background: -webkit-linear-gradient(top, #cc0, #aa0);
+    background: -moz-linear-gradient(top, #cc0, #aa0);
+    background: -ms-linear-gradient(top, #cc0, #aa0);
+    background: -o-linear-gradient(top, #cc0, #aa0);
     color: #fff;
   }
   /* line 430, ../sass/base/_header.scss */
@@ -965,7 +965,7 @@ article .field--type-comment, article .node__links {
   top: 9px;
   padding-left: 1px;
   z-index: 1;
-  color: #666;
+  color: #060;
 }
 
 /* slideshow */
@@ -1687,7 +1687,7 @@ article .field--type-comment, article .node__links {
 }
 /* line 752, ../sass/partials/_block.scss */
 #panel_second .views-col .views-field-field-image img {
-  border: 1px solid #666;
+  border: 1px solid #060;
   padding: 3px;
 }
 /* line 759, ../sass/partials/_block.scss */
@@ -1735,11 +1735,11 @@ article .field--type-comment, article .node__links {
 }
 /* line 797, ../sass/partials/_block.scss */
 #footer ul.menu li a:hover, #footer ul.menu li a:focus {
-  color: #c01700;
+  color: #cc0;
 }
 /* line 801, ../sass/partials/_block.scss */
 #footer ul.menu li a.is-active {
-  color: #c01700;
+  color: #cc0;
 }
 
 /* login */
@@ -2022,7 +2022,7 @@ ul.links.inline .node-readmore a:before {
 ul.inline .node-readmore a:hover, ul.inline .node-readmore a:focus,
 ul.links.inline .node-readmore a:hover,
 ul.links.inline .node-readmore a:focus {
-  color: #c01700;
+  color: #cc0;
   background: none;
 }
 
@@ -2748,18 +2748,18 @@ ul.links.inline .node-readmore a:focus {
   }
   /* line 187, ../sass/partials/_responsive.scss */
   #main-menu .navbar-collapse .container ul.menu li .is-active {
-    color: #c01700;
+    color: #cc0;
     background: none;
   }
   /* line 192, ../sass/partials/_responsive.scss */
   #main-menu .navbar-collapse .container ul.menu li.menu-item--active-trail > a {
     background: none;
-    color: #c01700;
+    color: #cc0;
   }
   /* line 199, ../sass/partials/_responsive.scss */
   #main-menu .navbar-collapse .container ul.menu li:hover a, #main-menu .navbar-collapse .container ul.menu li:focus a {
     background: none;
-    color: #c01700;
+    color: #cc0;
     text-decoration: none;
   }
   /* line 205, ../sass/partials/_responsive.scss */
@@ -2803,7 +2803,7 @@ ul.links.inline .node-readmore a:focus {
   }
   /* line 243, ../sass/partials/_responsive.scss */
   #main-menu .navbar-collapse .container ul.menu .menu-item--expanded > a:before {
-    color: #555;
+    color: #050;
   }
   /* line 251, ../sass/partials/_responsive.scss */
   #main-menu .navbar-collapse.in .container {
@@ -3185,11 +3185,11 @@ ul.links.inline .node-readmore a:focus {
   .sidebar .our-products-list .views-row .views-field-title {
     position: static;
     background: none;
-    color: #555;
+    color: #050;
   }
   /* line 619, ../sass/partials/_responsive.scss */
   .sidebar .our-products-list .views-row .views-field-title a {
-    color: #555;
+    color: #050;
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
