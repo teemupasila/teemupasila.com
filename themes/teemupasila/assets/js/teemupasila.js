@@ -2,8 +2,8 @@
 
 (function($, Drupal) {
 
-    Drupal.Zircon = Drupal.Zircon || {};
-    Drupal.behaviors.zircon = {
+    Drupal.teemupasila = Drupal.teemupasila || {};
+    Drupal.behaviors.teemupasila = {
         attach: function(context, settings) {
 
 
@@ -23,7 +23,7 @@
                 }
             });
 
-            Drupal.Zircon.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
+            Drupal.teemupasila.setInputPlaceHolder('email', 'user@example.com', '.simplenews-subscriber-form .form-type-email');
 
             $(window).scroll(function() {
                 if ($(window).scrollTop() > 200) {
@@ -39,11 +39,11 @@
                 }
             });
 
-            Drupal.Zircon.mobileMenu();
+            Drupal.teemupasila.mobileMenu();
 
         }
     }
-    Drupal.Zircon.setInputPlaceHolder = function(name, text, selector) {
+    Drupal.teemupasila.setInputPlaceHolder = function(name, text, selector) {
         selector = selector == undefined ? '' : selector + ' ';
 
         if ($.support.placeholder) {
@@ -62,7 +62,7 @@
         }
     }
 
-    Drupal.Zircon.mobileMenu = function() {
+    Drupal.teemupasila.mobileMenu = function() {
       $('#main-menu-inner').mobileMenu();
     }
 

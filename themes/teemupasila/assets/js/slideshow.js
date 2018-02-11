@@ -2,11 +2,11 @@
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconSlideshow = {
-    attach: function (context, settings) {  
+  Drupal.behaviors.teemupasilaSlideshow = {
+    attach: function (context, settings) {
       jQuery(document).ready(function ($) {
         if($('#slideshow_container').length) {
-			
+
             var _SlideshowTransitions = [
             { $Duration: 1500, $Opacity: 2 }
             ];
@@ -53,15 +53,15 @@
                 }
             };
             var jssor_slider1 = new $JssorSlider$("slideshow_container", options);
-			
+
             ScaleSlider();
 
             if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) {
                 $(window).bind('resize', ScaleSlider);
             }
-			
+
         }
-		
+
         function ScaleSlider() {
             var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
             if (parentWidth)
@@ -69,7 +69,7 @@
             else
                 window.setTimeout(ScaleSlider, 30);
         }
-		
+
 
       });
     }
@@ -81,13 +81,13 @@
 */
 
 (jQuery)(function () {
-	
+
 	fix_slider_html();
 	(jQuery)('#slideshow_container').flexslider({
 		animation: "slide",
 	});
 	onDrag();
-	
+
 	function fix_slider_html() {
 		var parent = (jQuery)('#slideshow_container');
 		var sliderContainer = (jQuery)(parent.children()[1]);
@@ -96,20 +96,20 @@
 			var self = (jQuery)(this);
 			var image = self.find('.views-field-field-slideshow img').parent().parent();
 			var title = self.find('.views-field-title a').parent();
-			
+
 			var newElement = '<li>' + image.html() + '<p class="flex-caption">' + title.html() + '</p></li>';
-			
+
 			(jQuery)(slider).append(newElement);
 		});
 		parent.empty();
 		parent.append(slider);
 	}
-	
+
 	function onDrag() {
 		var isDragging = false;
 		var img = (jQuery)('#slideshow_container .slides img');
 		var deltaX, deltaY;
-		
+
 		img.mousedown(function(event) {
 			isDragging = false;
 			deltaX = event.offsetX;
@@ -120,11 +120,11 @@
 		})
 		.mouseup(function(event) {
 			var wasDragging = isDragging;
-			
+
 			isDragging = false;
 			deltaX -= event.offsetX;
 			//deltaY -= event.offsetY;
-			
+
 			if (Math.abs(deltaX) > 20/* || Math.abs(deltaY) > 20*/) {
 				if (deltaX < 0) {
 					movePrev();
@@ -145,39 +145,39 @@
 						moveDown();
 					}
 				}
-				*/				
+				*/
 			}
 		});
 	}
-	
+
 	function moveNext() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "horizontal"
 		});
 		(jQuery)('#slideshow_container').flexslider("next");
 	}
-	
+
 	function movePrev() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "horizontal"
 		});
 		(jQuery)('#slideshow_container').flexslider("prev");
 	}
-	
+
 	function moveTop() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "vertical"
 		});
 		(jQuery)('#slideshow_container').flexslider("next");
 	}
-	
+
 	function moveDown() {
 		(jQuery)('#slideshow_container').flexslider({
 			direction: "vertical"
 		});
 		(jQuery)('#slideshow_container').flexslider("prev");
 	}
-	
+
 	/*
 		<ul class="slides">
             <li>

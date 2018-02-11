@@ -1,7 +1,7 @@
 (function ($, Drupal) {
 
   "use strict";
-  Drupal.behaviors.zirconCarousel = {
+  Drupal.behaviors.teemupasilaCarousel = {
     attach: function (context, settings) {  
       $(document).ready(function() {
         if($('.carousel-responsive').length) {
