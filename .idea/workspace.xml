@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03876de-dc85-4592-8011-01bb46fa4e85" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_BxWuJTN3Rd7brujgEpGudFbpSX_0UTVNQ1_m20cGdiY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BxWuJTN3Rd7brujgEpGudFbpSX_0UTVNQ1_m20cGdiY.css" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UR-khvxxIvVXyxP4Dz5cVgF_nONIKTtV5hfKATTvOw4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_UR-khvxxIvVXyxP4Dz5cVgF_nONIKTtV5hfKATTvOw4.css" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_u2e2RxFVSKXvn7VqeRCZwyUaNcfAoG28ex1Yc5aQCus.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_u2e2RxFVSKXvn7VqeRCZwyUaNcfAoG28ex1Yc5aQCus.css" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_32likubl5VAAsDH0u6yHqlbtsd4IoGCQq2p-Zs_okL0.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_32likubl5VAAsDH0u6yHqlbtsd4IoGCQq2p-Zs_okL0.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CUgT6yCJm7OJNjwADxKSGsjSbV-unnM1Kn1BgVriTmI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_CUgT6yCJm7OJNjwADxKSGsjSbV-unnM1Kn1BgVriTmI.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_LKxRRmE3mOrWezkjiDxunwA9ikQx6reR5-1wXZCnC14.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_LKxRRmE3mOrWezkjiDxunwA9ikQx6reR5-1wXZCnC14.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XV7KxeW_HcK03FtOCapX55h4Adp3O3MjxPCrrlXNcpI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_XV7KxeW_HcK03FtOCapX55h4Adp3O3MjxPCrrlXNcpI.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_gkbhMpPsWIWeliGfsSMWprOE4-BErAClTZRASKfc2nw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_gkbhMpPsWIWeliGfsSMWprOE4-BErAClTZRASKfc2nw.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_j6S2JRDc2WBW76UbvOVGi386E7QiM5A3cStjnENQmZI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j6S2JRDc2WBW76UbvOVGi386E7QiM5A3cStjnENQmZI.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_lgdSWOY3sib_9WKXt0Cx9YFOsmrGzJad3aVz13vSrag.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_lgdSWOY3sib_9WKXt0Cx9YFOsmrGzJad3aVz13vSrag.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_sXKgfDwztSGnqrvvH4AnavgtESEK488F7nW4OdCILe8.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sXKgfDwztSGnqrvvH4AnavgtESEK488F7nW4OdCILe8.js" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_zAqTUCCTpnIc9pfQz9xIems_UvaeKxLYM2vBcjwVzTY.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_zAqTUCCTpnIc9pfQz9xIems_UvaeKxLYM2vBcjwVzTY.js" />
+      <change beforePath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" afterPath="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" afterPath="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +26,38 @@
       <file leaf-file-name="teemupasila.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            <state relative-caret-position="325">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="194" column="12" lean-forward="false" selection-start-line="194" selection-start-column="12" selection-end-line="194" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teemupasila.libraries.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.libraries.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -46,8 +66,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-310">
-              <caret line="281" column="1" lean-forward="false" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+            <state relative-caret-position="-6643">
+              <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_block.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -62,6 +92,7 @@
       <find>Main Navigation</find>
       <find>Drupal.Zircon.mobileMenu</find>
       <find>Zircon</find>
+      <find>.site-logo</find>
     </findStrings>
     <replaceStrings>
       <replace>teemupasila</replace>
@@ -85,6 +116,7 @@
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/sass/base/_skinbackground.scss" />
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js" />
         <option value="$PROJECT_DIR$/themes/teemupasila/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss" />
       </list>
     </option>
   </component>
@@ -238,6 +270,14 @@
               <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="teemupasila" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.teemupasila.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.teemupasila.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="teemupasila" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -289,6 +329,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="teemupasila.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="teemupasila.js" working-dir="$PROJECT_DIR$/themes/teemupasila/assets/js" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.teemupasila.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -302,17 +350,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518179578867</updated>
-      <workItem from="1518179580985" duration="9552000" />
+      <workItem from="1518179580985" duration="10803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9552000" />
+    <option name="totallyTimeSpent" value="10803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875458" sideWeight="0.48857144" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875458" sideWeight="0.48857144" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58920187" sideWeight="0.51282054" order="1" side_tool="true" content_ui="tabs" />
@@ -343,24 +392,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/bg-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/tabs-border.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/images/add.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -637,22 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="13" lean-forward="false" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/zircon_d8/zircon/templates/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -701,18 +716,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/teemupasila.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/js/teemupasila.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="325">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="194" column="12" lean-forward="false" selection-start-line="194" selection-start-column="12" selection-end-line="194" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/sass/partials/_block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/teemupasila/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="281" column="1" lean-forward="false" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
+        <state relative-caret-position="-6643">
+          <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
           <folding />
         </state>
       </provider>

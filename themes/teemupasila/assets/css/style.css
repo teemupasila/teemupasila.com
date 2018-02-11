@@ -869,12 +869,9 @@ article .field--type-comment, article .node__links {
 /* line 3, ../sass/partials/_block.scss */
 .site-logo {
   display: block;
-  max-height: 49px;
-  max-width: 120px;
 }
 /* line 7, ../sass/partials/_block.scss */
 .site-logo img {
-  width: 120px;
   padding: 5px 0;
   border-radius: 5px;
 }
