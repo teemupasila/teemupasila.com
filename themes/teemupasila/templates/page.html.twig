@@ -14,6 +14,15 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
+    {% if page.main_menu %}
+      <nav id="main-menu" class="navbar navbar-default " role="navigation">
+        <div class="collapse navbar-collapse" id="main-menu-inner">
+          <div class="container">
+            {{ page.main_menu }}
+          </div>
+        </div>
+      </nav>
+    {% endif %}
 
     {% if logo %}
       <a id="logo" href="{{ front_page }}" title="{{ 'Home'|t }}" rel="home">
@@ -57,17 +66,7 @@
       </div>
     </nav>
   {% endif %}
-
-  {% if page.main_menu %}
-    <nav id="main-menu" class="navbar navbar-default " role="navigation">
-      <div class="collapse navbar-collapse" id="main-menu-inner">
-        <div class="container">
-          {{ page.main_menu }}
-        </div>
-      </div>
-    </nav>
-  {% endif %}
-
+  
 
   {% if page.slideshow %}
     <section id="slideshow" class="slideshow">
