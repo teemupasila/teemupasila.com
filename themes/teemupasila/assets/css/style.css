@@ -22,16 +22,21 @@ CSS
   background-color: #000;
 }
 /* line 11, ../sass/base/_skinbackground.scss */
+
 .change-skin-menu-wrapper .bg-1 a {
-  background: url(../images/skins-menu/bg-1.png) 0 0 repeat;
+  background: url(../images/skins-menu/forest_green_hexagon_tile_background_seamless.jpg) 0 0 repeat;
+
+  /*background: url(../images/skins-menu/bg-1.png) 0 0 repeat;*/
 }
 /* line 15, ../sass/base/_skinbackground.scss */
 .change-skin-menu-wrapper .bg-2 a {
-  background: url(../images/skins-menu/bg-2.png) 0 0 repeat;
+  background: url(../images/skins-menu/green_black_frosted.jpg) 0 0 repeat;
+  /*background: url(../images/skins-menu/bg-2.png) 0 0 repeat;*/
 }
 /* line 19, ../sass/base/_skinbackground.scss */
 .change-skin-menu-wrapper .bg-3 a {
-  background: url(../images/skins-menu/bg-3.png) 0 0 repeat;
+  background: url(../images/skins-menu/wood-002675-faded-green.jpg) 0 0 repeat;
+  /*background: url(../images/skins-menu/bg-3.png) 0 0 repeat;*/
 }
 /* line 23, ../sass/base/_skinbackground.scss */
 .change-skin-menu-wrapper .bg-4 a {
@@ -53,17 +58,21 @@ CSS
 /* change background */
 /* line 45, ../sass/base/_skinbackground.scss */
 .bg-1 {
-  background: url("../images/skins-menu/bg-1.png") 0 0 repeat;
+  background: url("../images/skins-menu/forest_green_hexagon_tile_background_seamless.jpg") 0 0 repeat;
+  /*background: url("../images/skins-menu/bg-1.png") 0 0 repeat;*/
 }
 
 /* line 49, ../sass/base/_skinbackground.scss */
 .bg-2 {
-  background: url("../images/skins-menu/bg-2.png") 0 0 repeat;
+  background: url("../images/skins-menu/green_black_frosted.jpg") 0 0 repeat;
+  /*background: url("../images/skins-menu/bg-2.png") 0 0 repeat;*/
+
 }
 
 /* line 53, ../sass/base/_skinbackground.scss */
 .bg-3 {
-  background: url("../images/skins-menu/bg-3.png") 0 0 repeat;
+  background: url("../images/skins-menu/wood-002675-faded-green.jpg") 0 0 repeat;
+  /*background: url("../images/skins-menu/bg-3.png") 0 0 repeat;*/
 }
 
 /* line 57, ../sass/base/_skinbackground.scss */
