@@ -68,10 +68,6 @@ body,
   padding: 0 10px;
 }
 
-#block-teemupasila-account-menu {
-  float: right;
-}
-
 @media all and (min-width: 560px) and (max-width: 850px) {
 
   #sidebar-first,

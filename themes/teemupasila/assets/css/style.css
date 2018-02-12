@@ -3231,3 +3231,7 @@ ul.links.inline .node-readmore a:focus {
     display: inline-block;
   }
 }
+
+#block-teemupasila-account-menu {
+  float: right;
+}
