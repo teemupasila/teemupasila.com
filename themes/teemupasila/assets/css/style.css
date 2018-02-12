@@ -602,6 +602,10 @@ p {
   float: right;
 }
 
+#main-menu .container .block.menu--register {
+  float: right;
+}
+
 
 /* line 180, ../sass/base/_header.scss */
 #main-menu .navbar-collapse {
