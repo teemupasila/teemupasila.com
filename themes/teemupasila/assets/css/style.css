@@ -139,7 +139,7 @@ CSS
   height: 41px;
   box-shadow: 1px 1px 2px -2px #888;
   -webkit-box-shadow: 1px 1px 2px -2px #888;
-  color: #060;
+  color: #666;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
 }
@@ -588,6 +588,12 @@ p {
 #main-menu .container .block {
   float: left;
 }
+
+#main-menu .container .block.menu--account {
+  float: right;
+}
+
+
 /* line 180, ../sass/base/_header.scss */
 #main-menu .navbar-collapse {
   background: none;
@@ -965,7 +971,7 @@ article .field--type-comment, article .node__links {
   top: 9px;
   padding-left: 1px;
   z-index: 1;
-  color: #060;
+  color: #666;
 }
 
 /* slideshow */
@@ -1687,7 +1693,7 @@ article .field--type-comment, article .node__links {
 }
 /* line 752, ../sass/partials/_block.scss */
 #panel_second .views-col .views-field-field-image img {
-  border: 1px solid #060;
+  border: 1px solid #666;
   padding: 3px;
 }
 /* line 759, ../sass/partials/_block.scss */
@@ -3230,8 +3236,4 @@ ul.links.inline .node-readmore a:focus {
     margin-right: 0;
     display: inline-block;
   }
-}
-
-#block-teemupasila-account-menu {
-  float: right;
 }
